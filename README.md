@@ -1,4 +1,4 @@
-A VR progect made with VRTK as a simulator, can be viewed at the following link: https://youtu.be/FD7aPMjnDXs
+A VR project made with VRTK as a simulator, can be viewed at the following link: https://youtu.be/FD7aPMjnDXs
 
 
 
